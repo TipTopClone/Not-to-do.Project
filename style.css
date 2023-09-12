@@ -1,0 +1,8 @@
+.wrapper {
+  background: linear-gradient(rgb(226, 104, 226), rgb(119, 45, 189));
+  min-height: 100vh;
+}
+
+.table tr td {
+  background-color: transparent !important;
+}
